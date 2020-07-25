@@ -1,0 +1,50 @@
+lastAccountName: methamatic
+timestamps:
+  login: 1595619807634
+  logout: 1595619969682
+  lastteleport: 1595619856949
+  kits:
+    dtools: 1595082991353
+    tools: 1595083260235
+ipAddress: 10.0.0.6
+logoutlocation:
+  world: world
+  x: 3783.7103624058527
+  y: 66.5
+  z: 6971.56506097885
+  yaw: -80.3684
+  pitch: 22.48779
+lastlocation:
+  world: world
+  x: 3825.5
+  y: 60.834944204781976
+  z: 6846.5
+  yaw: -198.60335
+  pitch: 14.996682
+godmode: false
+homes:
+  mine:
+    world: world
+    x: 3503.300000011921
+    y: 25.0
+    z: 6699.490427843133
+    yaw: 259.63098
+    pitch: 23.33777
+  skelly:
+    world: world
+    x: 3540.699999988079
+    y: 35.5
+    z: 6928.300000011921
+    yaw: 86.605255
+    pitch: 19.667797
+  horse:
+    world: world
+    x: 3779.238000019201
+    y: 65.0
+    z: 6982.161521841696
+    yaw: 159.19014
+    pitch: 24.956583
+unlimited:
+- SEAGRASS
+- TORCH
+afk: false

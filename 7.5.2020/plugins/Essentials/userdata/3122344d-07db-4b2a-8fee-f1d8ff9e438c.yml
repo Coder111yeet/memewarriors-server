@@ -1,0 +1,22 @@
+lastAccountName: methamatics
+timestamps:
+  login: 1595084516188
+  kits:
+    claim: 1595084887263
+  logout: 1595085302092
+ipAddress: 136.33.246.25
+lastlocation:
+  world: world
+  x: 3290.5
+  y: 70.0
+  z: 7891.5
+  yaw: 1.1818962
+  pitch: 0.0
+godmode: true
+logoutlocation:
+  world: world
+  x: 3304.600415547186
+  y: 71.0
+  z: 7886.5472439633895
+  yaw: 3.8710327
+  pitch: 32.76388

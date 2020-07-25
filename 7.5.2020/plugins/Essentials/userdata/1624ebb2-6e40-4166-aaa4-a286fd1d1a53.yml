@@ -1,0 +1,23 @@
+lastAccountName: alexblahblah
+timestamps:
+  login: 1595202625978
+  logout: 1595202673583
+  lastteleport: 1595111818585
+  kits:
+    tools: 1595201453346
+ipAddress: 136.33.250.191
+lastlocation:
+  world: world
+  x: 3475.39388030269
+  y: 71.0
+  z: 7986.571939581581
+  yaw: 304.1329
+  pitch: 22.785685
+logoutlocation:
+  world: world
+  x: 3024.052415888313
+  y: 67.0
+  z: 9828.77168761718
+  yaw: -80.65695
+  pitch: 63.300083
+godmode: false
